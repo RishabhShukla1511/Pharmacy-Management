@@ -28,3 +28,9 @@ Sqllite
 * Python manage.py makemigrations
 * Python manage.py migrate
 * Python manage.py runserver
+
+## Contributors
+* <a href="https://github.com/jainil-4801">Jainil Shah</a>
+* <a href="https://github.com/RishabhShukla1511">Rishabh Shukla</a>
+
+
